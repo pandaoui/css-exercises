@@ -1,0 +1,14 @@
+.click-me-yes, .click-me-no {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px
+}
+
+.click-me-yes {
+    background-color: black;
+    color: #FFF
+}
+
+.click-me-no {
+    background-color: yellow;
+}
+
